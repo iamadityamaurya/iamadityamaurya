@@ -29,6 +29,16 @@
 
 ---
 
+### 🧐 About Me
+
+- 💻 I’m a **Full Stack Developer** passionate about building scalable web and mobile applications.
+- 🤖 My interests lie at the intersection of **Software and IoT**, creating smart solutions that interact with the physical world.
+- 📐 I also enjoy **3D Modelling** using **Onshape** for bringing hardware concepts to life.
+- 🌱 I’m currently learning **Advanced System Design** and exploring **AI integrations**.
+- ⚡ Fun fact: I can debug code and solder a circuit board in the same afternoon!
+
+---
+
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -55,11 +65,13 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=addy1947&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=addy1947&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" alt="Streak Stats" />
 </div>
 
 ---
 
 <div align="center">
   <i>Let's build something amazing together!</i>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=addy1947&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
 </div>
