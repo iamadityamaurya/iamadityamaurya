@@ -1,16 +1,65 @@
-## Hi there 👋
+<!-- Banner / Desk Setup -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/70948920/216576628-fc3ee4fe-31ae-4c07-b67f-20092576fa2e.gif" width="100%" alt="Minimal Desk Setup" style="border-radius: 10px;"/>
+</div>
 
-<!--
-**addy1947/addy1947** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1>Hi there, I'm Aditya Kumar Maurya! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  
+  <h3>Full Stack Developer 👨‍💻 | IoT Enthusiast 🤖 | Onshape Designer 📐</h3>
 
-Here are some ideas to get you started:
+  <p>
+    I love bridging the gap between software and hardware to create interactive, real-world solutions. <br/>
+    Specializing in modern web technologies and IoT architectures.
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Social Links -->
+  <p>
+    <a href="https://x.com/AdityaMaur43164" target="_blank">
+      <img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+    </a>
+    <a href="https://www.linkedin.com/in/adityamaurya123/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    </a>
+  </p>
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <!-- Row 1 & 2 from Image -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,tailwind,mongodb,expo,git&theme=dark" alt="Tech Stack 1" />
+  <br/><br/>
+  <!-- Row 3: Supabase, PyTorch, C, Python, and others derived from interests -->
+  <img src="https://skillicons.dev/icons?i=supabase,pytorch,c,python,arduino,linux&theme=dark" alt="Tech Stack 2" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/addy1947">
+    <img src="https://github-readme-stats.vercel.app/api?username=addy1947&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Aditya's GitHub Stats" />
+  </a>
+  <a href="https://github.com/addy1947">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=addy1947&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=addy1947&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" alt="Streak Stats" />
+</div>
+
+---
+
+<div align="center">
+  <i>Let's build something amazing together!</i>
+</div>
