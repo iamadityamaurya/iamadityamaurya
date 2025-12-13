@@ -51,7 +51,7 @@
 
 ---
 
-### � Projects
+### 🚀 Projects
 
 <div align="center">
 
@@ -66,7 +66,7 @@
 
 ---
 
-### �📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/addy1947">
@@ -83,6 +83,9 @@
   <img src="https://streak-stats.demolab.com/?user=addy1947&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" alt="Streak Stats" />
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=addy1947&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <br/>
+  <!-- Snake Animation -->
+  <img src="https://raw.githubusercontent.com/addy1947/addy1947/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 ---
