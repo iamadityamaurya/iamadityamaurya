@@ -51,7 +51,22 @@
 
 ---
 
-### 📊 GitHub Stats
+### � Projects
+
+<div align="center">
+
+| Project | Type | Link |
+| :--- | :--- | :--- |
+| **AI Filler for Google Form** | 🤖 Chrome Extension | [View Project](https://chromewebstore.google.com/detail/ai-filler-for-google-form/hdkgiebcambianonfpchpdbebnlmaafn) |
+| **Medscrapper** | 💊 Web App | [View Project](https://medscrapper.vercel.app/) |
+| **Restocker** | 📦 Web App | [View Project](https://restocker.vercel.app/) |
+| **AddyBites** | 🍔 Web App | [View Project](https://addybites.vercel.app/) |
+
+</div>
+
+---
+
+### �📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/addy1947">
