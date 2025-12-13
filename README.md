@@ -43,7 +43,7 @@
 
 <div align="center">
   <!-- Row 1 & 2 from Image -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,tailwind,mongodb,expo,git&theme=dark" alt="Tech Stack 1" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,tailwind,mongodb,git,threejs&theme=dark" alt="Tech Stack 1" />
   <br/><br/>
   <!-- Row 3: Supabase, PyTorch, C, Python, and others derived from interests -->
   <img src="https://skillicons.dev/icons?i=supabase,pytorch,c,python,arduino,linux&theme=dark" alt="Tech Stack 2" />
