@@ -69,23 +69,23 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/addy1947">
-    <img src="https://github-readme-stats.vercel.app/api?username=addy1947&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Aditya's GitHub Stats" />
+  <a href="https://github.com/iamadityamaurya">
+    <img src="https://github-readme-stats.vercel.app/api?username=iamadityamaurya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Aditya's GitHub Stats" />
   </a>
-  <a href="https://github.com/addy1947">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=addy1947&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D2117&title_color=58A6FF" alt="Top Languages" />
+  <a href="https://github.com/iamadityamaurya">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamadityamaurya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D2117&title_color=58A6FF" alt="Top Languages" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=addy1947&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=iamadityamaurya&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF" alt="Streak Stats" />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=addy1947&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamadityamaurya&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
   <br/>
   <!-- Snake Animation -->
-  <img src="https://raw.githubusercontent.com/addy1947/addy1947/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/iamadityamaurya/iamadityamaurya/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 ---
@@ -93,5 +93,5 @@
 <div align="center">
   <i>Let's build something amazing together!</i>
   <br/> <br/>
-  <img src="https://komarev.com/ghpvc/?username=addy1947&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=iamadityamaurya&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
 </div>
