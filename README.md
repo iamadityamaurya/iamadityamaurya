@@ -1,6 +1,6 @@
-<!-- Banner / Desk Setup -->
+<!-- Banner -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/70948920/216576628-fc3ee4fe-31ae-4c07-b67f-20092576fa2e.gif" width="100%" alt="Minimal Desk Setup" style="border-radius: 10px;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=180&section=header&text=Aditya%20Kumar%20Maurya&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32" width="100%" alt="Header"/>
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 
   <!-- Social Links -->
   <p>
-    <a href="https://x.com/AdityaMaur43164" target="_blank">
+    <a href="https://x.com/aditya_maurya0" target="_blank">
       <img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
     </a>
     <a href="https://www.linkedin.com/in/adityamaurya123/" target="_blank">
