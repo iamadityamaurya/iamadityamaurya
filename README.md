@@ -6,11 +6,11 @@
 <div align="center">
   <h1>Hi there, I'm Aditya Kumar Maurya! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
   
-  <h3>Full Stack Developer 👨‍💻 | IoT Enthusiast 🤖 | Onshape Designer 📐</h3>
+  <h3>Full-Stack & AI Engineer 👨‍💻 | IoT & Robotics Enthusiast 🤖 | Android Developer 📱</h3>
 
   <p>
-    I love bridging the gap between software and hardware to create interactive, real-world solutions. <br/>
-    Specializing in modern web technologies and IoT architectures.
+    I build autonomous AI agents, production web & mobile apps, and hardware that talks to the real world. <br/>
+    Everything I ship runs live on my own domain — <b>adityamaurya.dev</b>.
   </p>
 
   <!-- Social Links -->
@@ -21,8 +21,8 @@
     <a href="https://www.linkedin.com/in/adityamaurya123/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://iamadityamaurya.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <a href="https://www.adityamaurya.dev" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-adityamaurya.dev-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
     </a>
   </p>
 </div>
@@ -31,10 +31,11 @@
 
 ### 🧐 About Me
 
-- 💻 I’m a **Full Stack Developer** passionate about building scalable web and mobile applications.
-- 🤖 My interests lie at the intersection of **Software and IoT**, creating smart solutions that interact with the physical world.
-- 📐 I also enjoy **3D Modelling** using **Onshape** for bringing hardware concepts to life.
-- 🌱 I’m currently learning **Advanced System Design** and exploring **AI integrations**.
+- 🤖 I build **autonomous AI agents** — DeepQuery runs a LangGraph state machine with 9 research tools; ReelFlow generates & publishes reels end-to-end.
+- 💻 **Full-Stack Developer** — Next.js, React, Expo, Supabase, PostgreSQL in production.
+- 📱 **Android** — OpenWhispr, a floating AI voice companion with native overlay & accessibility services.
+- 🌐 I own and operate **adityamaurya.dev** — 10 projects live on my own subdomains, DNS on Cloudflare, apps on Vercel.
+- 🤖 IoT & robotics at heart: ESP32, Arduino, PID control, ROS.
 - ⚡ Fun fact: I can debug code and solder a circuit board in the same afternoon!
 
 ---
@@ -42,25 +43,30 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <!-- Row 1 & 2 from Image -->
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,tailwind,mongodb,git,threejs&theme=dark" alt="Tech Stack 1" />
   <br/><br/>
-  <!-- Row 3: Supabase, PyTorch, C, Python, and others derived from interests -->
-  <img src="https://skillicons.dev/icons?i=supabase,pytorch,c,python,arduino,linux&theme=dark" alt="Tech Stack 2" />
+  <img src="https://skillicons.dev/icons?i=supabase,pytorch,python,arduino,linux,vite,postgres,cloudflare&theme=dark" alt="Tech Stack 2" />
 </div>
 
 ---
 
-### 🚀 Projects
+### 🚀 Live Projects — all on `adityamaurya.dev`
 
 <div align="center">
 
 | Project | Type | Link |
 | :--- | :--- | :--- |
-| **AI Filler for Google Form** | 🤖 Chrome Extension | [View Project](https://chromewebstore.google.com/detail/ai-filler-for-google-form/hdkgiebcambianonfpchpdbebnlmaafn) |
-| **Medscrapper** | 💊 Web App | [View Project](https://medscrapper.vercel.app/) |
-| **Restocker** | 📦 Web App | [View Project](https://restocker.vercel.app/) |
-| **AddyBites** | 🍔 Web App | [View Project](https://addybites.vercel.app/) |
+| **DeepQuery** — Autonomous AI Research Agent | 🤖 AI / LangGraph | [deepquery.adityamaurya.dev](https://deepquery.adityamaurya.dev/) |
+| **BunkMAIT** — Attendance & Timetable Suite (1K+ users) | 📚 Web + Android | [bunkmait.adityamaurya.dev](https://bunkmait.adityamaurya.dev/) |
+| **OpenWhispr** — Floating AI Voice Companion | 📱 Android | [openwhispr.adityamaurya.dev](https://openwhispr.adityamaurya.dev/) |
+| **MedScrapper** — Medicine Price Comparison | 💊 Web App | [medscrapper.adityamaurya.dev](https://medscrapper.adityamaurya.dev/) |
+| **NexGenQuery** — No-Code SQL Query Builder | 🗄️ Web Tool | [nexgenquery.adityamaurya.dev](https://nexgenquery.adityamaurya.dev/) |
+| **NexGenStorage** — Telegram-backed Cloud Drive | ☁️ Web App | [nexgenstorage.adityamaurya.dev](https://nexgenstorage.adityamaurya.dev/) |
+| **Live Text OCR** — macOS-style Live Text for Ubuntu | 🖥️ Desktop Utility | [livetext.adityamaurya.dev](https://livetext.adityamaurya.dev/) |
+| **Restocker** — AI Inventory Intelligence | 📦 Web App | [restocker.adityamaurya.dev](https://restocker.adityamaurya.dev/) |
+| **AddyBites** — Food Ordering Platform | 🍔 Web App | [addybites.adityamaurya.dev](https://addybites.adityamaurya.dev/) |
+| **Motia** — Onboarding Automation | 🏢 Web App | [motia.adityamaurya.dev](https://motia.adityamaurya.dev/) |
+| **AI Filler for Google Form** | 🧩 Chrome Extension | [Chrome Web Store](https://chromewebstore.google.com/detail/ai-filler-for-google-form/hdkgiebcambianonfpchpdbebnlmaafn) |
 
 </div>
 
