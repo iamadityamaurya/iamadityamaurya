@@ -43,9 +43,22 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,tailwind,mongodb,git,threejs&theme=dark" alt="Tech Stack 1" />
+  <!-- Web core -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,tailwind,vite,threejs,git&theme=dark" alt="Web Stack" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=supabase,pytorch,python,arduino,linux,vite,postgres,cloudflare&theme=dark" alt="Tech Stack 2" />
+  <!-- Data / ML / Hardware -->
+  <img src="https://skillicons.dev/icons?i=supabase,prisma,postgres,mongodb,python,pytorch,arduino,cpp,linux,cloudflare&theme=dark" alt="Data, ML & Hardware Stack" />
+  <br/><br/>
+  <!-- AI agents, mobile & infra -->
+  <a href="https://langchain.com"><img src="https://img.shields.io/badge/LangChain-white?style=for-the-badge&logo=langchain" alt="LangChain"/></a>
+  <a href="https://langchain.com"><img src="https://img.shields.io/badge/LangGraph-white?style=for-the-badge&logo=langgraph" alt="LangGraph"/></a>
+  <a href="https://groq.com"><img src="https://img.shields.io/badge/Groq-white?style=for-the-badge" alt="Groq"/></a>
+  <a href="https://ai.google.dev"><img src="https://img.shields.io/badge/Google_Gemini-white?style=for-the-badge&logo=googlegemini" alt="Google Gemini"/></a>
+  <a href="https://deepgram.com"><img src="https://img.shields.io/badge/Deepgram-white?style=for-the-badge&logo=deepgram" alt="Deepgram"/></a>
+  <br/><br/>
+  <a href="https://expo.dev"><img src="https://img.shields.io/badge/Expo-white?style=for-the-badge&logo=expo" alt="Expo"/></a>
+  <a href="https://framer.com/motion"><img src="https://img.shields.io/badge/Framer_Motion-white?style=for-the-badge&logo=framer" alt="Framer Motion"/></a>
+  <a href="https://vercel.com"><img src="https://img.shields.io/badge/Vercel-white?style=for-the-badge&logo=vercel" alt="Vercel"/></a>
 </div>
 
 ---
